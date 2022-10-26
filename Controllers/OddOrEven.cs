@@ -2,7 +2,7 @@
 //10/25/2022
 //Odd or Even End Points
 //User will input a number we will decide if it is odd or even.
-//Reviewed by:
+//Reviewed by: Arely Martinez - Isaiah Went above and beyond because he added data confirmation. Which wasn't mentioned in the assignment, but its a nice little touch. The program did its job of returning a number and determing if its odd or even. As a challange try only having one return. 
 
 
 using Microsoft.AspNetCore.Mvc;
